@@ -1,0 +1,49 @@
+{
+    "gameFiles": {
+        "bink\\intro.bik": "E98316370050075B1B01CB4D4B875057B8D9C8B7",
+        "bink\\loading_loop.bik": "3DDA646C567E7C4773B88D79FFD6748B5B87238F",
+        "bink\\logo_343.bik": "098436B6EEA5D3FFAF44C07DE9848A216FB0F552",
+        "bink\\logo_microsoft.bik": "BAF159095D312C7B4BC732082C2E0BD704087BDE",
+        "maps\\fonts\\font_package.bin": "DDFA833A4C617DA68E003104A3806278F09AFDA0",
+        "maps\\audio.dat": "5DBB860857EDC86380F4153F2CA85764BFCDF578",
+        "maps\\bunkerworld.map": "1241A5BB079E179F56A3AE033AB12B95B8A458D3",
+        "maps\\chill.map": "CA9CF7D1248863385BC742AF5F3D56F0436BD5DF",
+        "maps\\cyberdyne.map": "33AE360FB7244B8C7E65E7491E64CB300C1D8636",
+        "maps\\deadlock.map": "79C9D882573D9D99790A7365167DCF2585CF8106",
+        "maps\\guardian.map": "480B141516E3DD86F44F98E7C3D7014A95CC3515",
+        "maps\\mainmenu.map": "A4BD5AE67AFC1E1C2D56FA3D6326B6153B6E0A3E",
+        "maps\\resources.dat": "21DFD3D8E99FD0D9D4F9DD0E636CAE6F2AA71A4D",
+        "maps\\riverworld.map": "6779C56F63833F7057DC71DBA938FE64F749B316",
+        "maps\\s3d_avalanche.map": "AF8EDF59F4B748A0F93559EA8E00678CF304F768",
+        "maps\\s3d_edge.map": "D52636EC13689C8A0E198589ECB8FA3C8A2E14DD",
+        "maps\\s3d_reactor.map": "62504F55802DC316B88E93BE4D7AB622AAFC385F",
+        "maps\\s3d_turf.map": "18188B45A7641F4438C9026AC98B2E3D875BB991",
+        "maps\\shrine.map": "63AD21BBBEA29099EBC34B6920FEAB7C158FB3FC",
+        "maps\\string_ids.dat": "C1D93EFC9FAAFCA9A902C91B495BB1B7E013E073",
+        "maps\\tags.dat": "3415F73BC948CF6F3CFA953CDC6126B71DC422C7",
+        "maps\\textures.dat": "12A502B979F9CE5B730F9D64FD97FFE5AB3E2B7A",
+        "maps\\textures_b.dat": "99AE5DBC195BC3A33ADCD3841D630CCF6A8B9EAD",
+        "maps\\video.dat": "94CE0296BA71CA4679780A1405683501B5A478D5",
+        "maps\\zanzibar.map": "EEE9F6AD1A513E0E2A27E114194E402F0B49B04D",
+        "binkw32.dll": "C1F3CBD820DBFAFB46FEC1AC49E055E856685238",
+        "eldorado.exe": "0586C67FBB3713F7ED55771C63B1C100A29D5AE4",
+        "game.cfg": "EF9771599CA2E6C4A33BA2D2828508D67E919058"
+    },
+
+    "updateServiceUrl": "http://eldewrito.anvilonline.net/update.json",
+    "updateChannelsUrl": "",
+
+    "masterServers": [{
+        "list": "http://samantha-master.halo.click/list",
+        "announce": "http://samantha-master.halo.click/announce",
+        "stats": "http://samantha-master.halo.click/stats"
+    }, {
+        "list": "http://kelly-master.halo.click/list",
+        "announce": "http://kelly-master.halo.click/announce",
+        "stats": "http://kelly-master.halo.click/stats"
+    }, {
+        "list": "http://eldewrito.red-m.net/list",
+        "announce": "http://eldewrito.red-m.net/announce",
+        "stats": "http://eldewrito.red-m.net/stats"
+    }]
+}

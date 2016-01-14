@@ -1,10 +1,10 @@
 {
-    "0.4.11.2": {
-        "releaseNo": "15",
-        "gitRevision": "42881d46",
-        "baseUrl": "https://eldewrito.github.io/update/0.4.11.2/",
+    "0.5.0.0": {
+        "releaseNo": "16",
+        "gitRevision": "c98f9f85",
+        "baseUrl": "http://eldewrito.anvilonline.net/0.5.0.0/",
         "files": {
-            "maps\\tags.dat": "70B95DD4BF38DEDF7B0A3DC47D39F4E543B58A0B",
+            "maps\\tags.dat": "3415F73BC948CF6F3CFA953CDC6126B71DC422C7",
             "mods\\medals\\halo3.zip": "84E811482699FA7357E58B90BE93911F7381E8FB",
             "eldorado.exe": "7504BDBC28E34466B6CC7924D3164CD27E04D66F",
             "DewritoUpdater.exe": "BD96D58B29B14C0415E98FE7E057C2008E507383",
@@ -13,7 +13,7 @@
             "ts3server_win32.dll": "8B10FE1F27F435BD4B4296AABB0DC07A7757A6E1",
             "natives_blob.bin": "FE896C85090BAB3F97D4E9E979E770E2A13EADA6",
             "snapshot_blob.bin": "3F7AD87A1B313D4C39A62943730676439CDD7994",
-            "mtndew.dll": "93CD4A88000491E386E7761D6C4947A22C6A3502",
+            "mtndew.dll": "58D6330A6750D26F362EC6D4A0D179DE5A23458A",
             "libwebsocketswin32.dll": "A03F096D3ACA33EF74879B1386F3078551941BBF",
             "libEGL.dll": "CF43A5A3F78700FC4BE9CD8A3BB06BA9642EBBB5",
             "libGLESv2.dll": "8F07E736DCA02701A241C526CA9C2A430860AAAF",
@@ -87,7 +87,6 @@
             "soundbackends\\windowsaudiosession_win64.dll": "B420F49ECA4BBF01B454C3A357AF084920F6E976"
         },
         "patchFiles": [
-            "maps\\tags.dat",
             "eldorado.exe"
         ]
     }
