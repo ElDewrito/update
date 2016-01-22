@@ -30,7 +30,7 @@
         "game.cfg": "BB9E370DECDCD08A616EF6D4DEDE7478AB28D030"
     },
 
-    "updateServiceUrl": "http://eldewrito.anvilonline.net/test/update.json",
+    "updateServiceUrl": "http://eldewrito.anvilonline.net/update.json",
     "updateChannelsUrl": "",
 
     "masterServers": [{
