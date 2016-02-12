@@ -2,7 +2,7 @@
     "beta": {
         "releaseNo": "17",
         "gitRevision": "c98f9f85",
-        "baseUrl": "http://eldewrito.github.io/update/beta/",
+        "baseUrl": "https://eldewrito.github.io/update/beta/",
         "files": {
             "maps\\tags.dat": "8897C82435C16D5F95D8DDCDC321B3DCD6967AFD",
             "mods\\medals\\halo3.zip": "84E811482699FA7357E58B90BE93911F7381E8FB",
