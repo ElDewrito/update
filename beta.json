@@ -87,7 +87,7 @@
             "soundbackends\\windowsaudiosession_win64.dll": "B420F49ECA4BBF01B454C3A357AF084920F6E976"
         },
         "xdeltaFiles": [
-        	"maps\\tags.dat"
+            "maps\\tags.dat",
             "maps\\video.dat"
         ]
     }
