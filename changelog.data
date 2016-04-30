@@ -1,7 +1,21 @@
 
 What's new in this release:
 
-
+0.5.1.0
+- Added support for Windows Vista.
+- Added support for 4K and non-16:9 resolutions.
+- Fixed a bug where the launcher would occasionally reset your armor settings. If you set dewrito_prefs.cfg to read-only, please unset it before applying this update.
+- Fixed a bug where player/team colors did not show in the lobby roster.
+- Added a Server.AssassinationEnabled setting that allows server hosts to forcibly disable assassination animations.
+- Fixed a bug that caused The Pit to randomly crash server hosts.
+- Added a spam filter to in-game chat which automatically mutes annoying players. Server hosts can disable this by setting Server.FloodFilterEnabled to 0.
+- Added a log file for in-game chat when hosting a server. Chat will be logged to chat.log by default. Use Server.ChatLogEnabled and Server.ChatLogFile to configure this.
+- Added a Player.RenderWeapon setting that controls the weapon that your Spartan holds on the main menu. This is cosmetic only and does not show to other players.
+- Fixed a bug where the DMR would not load on Forge maps.
+- Fixed a bug where the Server.MaxPlayers setting was ignored when creating a lobby.
+- Fixed a bug that caused the game to randomly crash on startup.
+- Fixed a bug that allowed players to change their name while connected to a server.
+- Changed the description for Icebox to the official Halo Online description.
 
 Previous Versions:
 
