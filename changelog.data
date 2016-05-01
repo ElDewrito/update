@@ -1,6 +1,14 @@
 
 What's new in this release:
 
+0.5.1.1
+- Fixed H3UI scaling on ultrawide monitors
+- Fixed Player.PrintUID returning an invalid UID
+- Fixed launcher disabling assassinations on every startup
+- Fixed launcher wiping configs when an invalid value is given
+
+Previous Versions:
+
 0.5.1.0
 - Added support for Windows Vista.
 - Added support for 4K and non-16:9 resolutions.
@@ -16,8 +24,6 @@ What's new in this release:
 - Fixed a bug that caused the game to randomly crash on startup.
 - Fixed a bug that allowed players to change their name while connected to a server.
 - Changed the description for Icebox to the official Halo Online description.
-
-Previous Versions:
 
 0.4.10.1
 - Removed descoping when a player is damaged
